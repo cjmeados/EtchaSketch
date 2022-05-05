@@ -1,0 +1,1 @@
+This project is undergoing the construction of a working etch-a-sketch and notepad using html, css, and javascript..
